@@ -124,7 +124,7 @@ The project is fully designed using:
 
 ## 📸 Demonstration
 
-(Add pictures or video link here)
+
 
 ---
 
