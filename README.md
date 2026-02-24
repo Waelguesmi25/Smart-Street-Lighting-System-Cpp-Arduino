@@ -120,11 +120,6 @@ The project is fully designed using:
 - Energy consumption analytics
 - Solar power integration
 
----
-
-## 📸 Demonstration
-
-
 
 ---
 
